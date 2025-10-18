@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NightOfTheLivingDead" tvg-name="Night of the Living Dead (1968)" group-title="Filmes Domínio Público",Night of the Living Dead (1968)
+https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4
+
+#EXTINF:-1 tvg-id="TheKid" tvg-name="Charlie Chaplin - The Kid (1921)" group-title="Filmes Clássicos",Charlie Chaplin - The Kid (1921)
+https://archive.org/download/CharlieChaplinTheKid/CharlieChaplinTheKid.mp4
+
+#EXTINF:-1 tvg-id="Plan9" tvg-name="Plan 9 from Outer Space (1959)" group-title="Filmes Cult",Plan 9 from Outer Space (1959)
+https://archive.org/download/Plan_9_from_Outer_Space/Plan_9_from_Outer_Space_512kb.mp4
+
+#EXTINF:-1 tvg-id="BusterKeatonOneWeek" tvg-name="Buster Keaton - One Week (1920)" group-title="Curta-Metragem",Buster Keaton - One Week (1920)
+https://archive.org/download/OneWeek/OneWeek.mp4
+
+#EXTINF:-1 tvg-id="NASA" tvg-name="NASA TV Public" group-title="Educação e Ciência",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-Public/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish" tvg-name="DW English" group-title="Notícias Internacionais",DW English
+https://dwamdstream106.akamaized.net/hls/live/2015525/dwstream106/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergGlobal" tvg-name="Bloomberg Global News" group-title="Negócios e Economia",Bloomberg Global News
+https://liveprodusphoenixeast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-id="PBSDocumentaries" tvg-name="PBS Documentaries" group-title="Documentários",PBS Documentaries
+https://d3kn1a46jr2fw3.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TEDTalks" tvg-name="TED Talks Live" group-title="Educação e Inspiração",TED Talks Live
+https://video.ted.com/talks/rss
+
+#EXTINF:-1 tvg-id="PlutoTVKids" tvg-name="Pluto TV Kids" group-title="Infantil",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14b62e36a05e0009e2b7b2/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScience" tvg-name="Pluto TV Science" group-title="Documentários",Pluto TV Science
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32e5d58b29a20007a37792/master.m3u8
+
+#EXTINF:-1 tvg-id="PlexFreeMovies" tvg-name="Plex Free Movies" group-title="Filmes Grátis com Anúncios",Plex Free Movies
+https://plexvod.com/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ClassicCartoons" tvg-name="Classic Cartoons Collection" group-title="Infantil",Classic Cartoons Collection
+https://archive.org/download/classic_cartoons/classic_cartoons.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="Smithsonian Channel" group-title="Cultura e História",Smithsonian Channel
+https://d2rwmwucnr0d10.cloudfront.net/live/smithsonian/index.m3u8
